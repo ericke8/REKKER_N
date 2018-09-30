@@ -6,3 +6,5 @@ Inspired by Fire Emblem; though this game is against another player instead of a
 
 Uses the Gridworld framework, with new interfaces and classes replacing the original "Actor" and "Bug" system.
 Also implements a messaging system between computers that uses a self made encoding protocol to transmit coordinate and character data.
+
+---Updated with code previously stored on a local drive, not uploaded to Github---
